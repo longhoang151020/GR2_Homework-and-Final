@@ -5,3 +5,8 @@ __pycache__/
 *.pth
 .ipynb_checkpoints/
 .venv/
+
+data/type_txt/
+data/test/
+data/train/
+data/validation/  
